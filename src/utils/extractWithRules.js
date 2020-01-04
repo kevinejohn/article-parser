@@ -19,6 +19,7 @@ export default (html) => {
     });
 
     const potentialClasses = [
+      '.mw-content-ltr', // wikipedia.org
       '.post-full-content',
       '.rich-text',
       '.post-content',
